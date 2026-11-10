@@ -1,0 +1,1 @@
+nesta pasta ficará o index.html da agenda e a e demais contratos com o cloudflare... essa estrutura sera preservada para quando quiser fazer coisas bonitas com conteudo protegido. (cloudflare armazenará as paginas)
